@@ -1,5 +1,5 @@
 from main import BooksCollector
-
+import _pytest
 # класс TestBooksCollector объединяет набор тестов, которыми мы покрываем наше приложение BooksCollector
 # обязательно указывать префикс Test
 class TestBooksCollector:
